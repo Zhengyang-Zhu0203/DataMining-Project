@@ -73,14 +73,14 @@ The Random Forest model delivers robust, high-accuracy weather type predictions,
 
 
 #### Bibliography  
--[1] L. Breiman, "Random forests," *Mach. Learn.*, vol. 45, no. 1, pp. 5-32, Oct. 2001.
--[2] R. Lagerquist, A. McGovern, and D. J. Gagne II, "Deep learning for spatially explicit prediction of synoptic-scale fronts," *Weather Forecast.*, vol. 32, no. 5, pp. 1817-1837, Oct. 2017.
--[3] World Meteorological Organization, *Guidelines on Machine Learning for Weather Prediction*, WMO-No. 1312, 2022.
--[4] H. Hersbach et al., "The ERA5 global reanalysis," *Q. J. R. Meteorol. Soc.*, vol. 146, no. 730, pp. 1999-2049, Jul. 2020.
--[5] Food and Agriculture Organization, *The Impact of Climate-Smart Agriculture on Food Security*, FAO, 2023.
--[6] International Energy Agency, *Renewable Energy Integration with Weather Forecasting*, IEA, 2023.
--[7] F. Pedregosa et al., "Scikit-learn: Machine learning in Python," *J. Mach. Learn. Res.*, vol. 12, pp. 2825-2830, 2011.
--[8] T. Chen and C. Guestrin, "XGBoost: A scalable tree boosting system," in *Proc. 22nd ACM SIGKDD Int. Conf. Knowl. Discov. Data Min.*, 2016, pp. 785-794.
+- [1] L. Breiman, "Random forests," *Mach. Learn.*, vol. 45, no. 1, pp. 5-32, Oct. 2001.
+- [2] R. Lagerquist, A. McGovern, and D. J. Gagne II, "Deep learning for spatially explicit prediction of synoptic-scale fronts," *Weather Forecast.*, vol. 32, no. 5, pp. 1817-1837, Oct. 2017.
+- [3] World Meteorological Organization, *Guidelines on Machine Learning for Weather Prediction*, WMO-No. 1312, 2022.
+- [4] H. Hersbach et al., "The ERA5 global reanalysis," *Q. J. R. Meteorol. Soc.*, vol. 146, no. 730, pp. 1999-2049, Jul. 2020.
+- [5] Food and Agriculture Organization, *The Impact of Climate-Smart Agriculture on Food Security*, FAO, 2023.
+- [6] International Energy Agency, *Renewable Energy Integration with Weather Forecasting*, IEA, 2023.
+- [7] F. Pedregosa et al., "Scikit-learn: Machine learning in Python," *J. Mach. Learn. Res.*, vol. 12, pp. 2825-2830, 2011.
+- [8] T. Chen and C. Guestrin, "XGBoost: A scalable tree boosting system," in *Proc. 22nd ACM SIGKDD Int. Conf. Knowl. Discov. Data Min.*, 2016, pp. 785-794.
 
 #### Contact and Further Information  
 For questions , please contact: Zhuzhengyang0203@hotmail.com  
