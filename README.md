@@ -32,7 +32,7 @@ Can a machine learning model accurately classify weather types (Sunny, Rainy, Cl
 #### Methodology  
 1. **Data Preprocessing**:  
    - Label encoding for categorical features (Season, Location, Cloud Cover).  
-   - Outlier removal using the IQR method, eliminating 1,514 outliers.  
+   - Outlier removal using the IQR method, eliminating 1,614 outliers.  
    - Feature scaling with StandardScaler for Wind Speed, UV Index, and Visibility.  
    - Engineered feature: **Weather Severity Index** (weighted sum of Temperature, Humidity, Wind Speed, Visibility).  
 
