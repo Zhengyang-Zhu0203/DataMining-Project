@@ -59,7 +59,7 @@ Can a machine learning model accurately classify weather types (Sunny, Rainy, Cl
   - **Feature Importance**: Temperature (18.3%), UV Index (16.6%), and Precipitation (15.1%) are most influential.  
   - **Confusion Matrix**: Low misclassification rates (e.g., 98% recall for Snowy and Cloudy types).  
   - **Learning Curve**: Model shows strong generalization with minimal overfitting.  
-
+  - **ROC & PR Curve**:The model achieves excellent classification performance with AUC-ROC ≥0.98 and balanced precision-recall (F1=0.976) across all weather types, reliably distinguishing Sunny/Rainy/Cloudy/Snowy conditions.
 
 #### Next Steps  
 1. Integrate **real-time weather APIs** (e.g., OpenWeatherMap) for dynamic predictions.  
