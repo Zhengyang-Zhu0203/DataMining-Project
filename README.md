@@ -83,5 +83,5 @@ The Random Forest model delivers robust, high-accuracy weather type predictions,
 - [8] T. Chen and C. Guestrin, "XGBoost: A scalable tree boosting system," in *Proc. 22nd ACM SIGKDD Int. Conf. Knowl. Discov. Data Min.*, 2016, pp. 785-794.
 
 #### Contact and Further Information  
-- The historical weather dataset used in this project can be obtained via the link: [https://www.kaggle.com/datasets/nikhil7280/weather-type-classification]
+- The historical weather dataset used in this project can be obtained via the link: https://www.kaggle.com/datasets/nikhil7280/weather-type-classification
 - For questions , please contact: Zhuzhengyang0203@hotmail.com  
