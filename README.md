@@ -39,7 +39,7 @@ Can a machine learning model accurately classify weather types (Sunny, Rainy, Cl
 2. **Model Development**:  
    - **Random Forest Classifier** chosen for handling mixed data types, non-linear relationships, and robustness to outliers.  
    - Hyperparameter tuning via **sequential grid search** with **Greedy choice** optimized parameters:  
-     - `n_estimators=220`, `max_depth=20`, `max_features='sqrt'`.  
+     - `n_estimators=220`, `max_depth=20`, `max_features='sqrt'`,`min_samples_split=2'`,`bootstrap=True`.
 
 3. **Evaluation**:  
    - Metrics: Accuracy, Precision, Recall, F1-Score, Confusion Matrix, ROC-AUC, and Learning Curves.  
